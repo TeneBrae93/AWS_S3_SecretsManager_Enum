@@ -1,4 +1,4 @@
-# AWS_S3_SecretsManager_Enum# AWS Boto3 Credential & Secrets Extractor
+# AWS Boto3 Credential & Secrets Extractor
 
 I created this Python script while working through the Understand Authentication Mechanisms Using Boto3 lab on Pwned Labs. It's a free lab - check it out!
 
